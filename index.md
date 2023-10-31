@@ -13,8 +13,20 @@ layout: default
 
 <center><img src="projects/netflix.png"/></center>
 
+---
+[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Eurovision1998-2012_16897884446100/Dashboard1)
 
+<center><img src="projects/Eurovision.png"/></center>
 
+---
+[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/MotoGP2020/Sheet4)
+
+<center><img src="projects/motogp.png"/></center>
+
+---
+[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/CR7vsMessi/Dashboard2)
+
+<center><img src="projects/cr7vsmessi.png"/></center>
 ---
 
 #### PowerBi visualizations
