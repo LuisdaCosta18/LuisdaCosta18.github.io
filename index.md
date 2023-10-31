@@ -9,21 +9,25 @@ layout: default
 ## Tableau Visualizations
 
 ---
+#### Netflix Visualization
 [![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Netflix_16897051908920/Dashboard1)
 
 <center><img src="projects/netflix.png"/></center>
 
 ---
+#### Eurovision 1998-2012
 [![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Eurovision1998-2012_16897884446100/Dashboard1)
 
 <center><img src="projects/Eurovision.png"/></center>
 
 ---
+#### MotoGP 2020 Bar Race
 [![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/MotoGP2020/Sheet4)
 
 <center><img src="projects/motogp.png"/></center>
 
 ---
+#### CR7 vs Messi
 [![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/CR7vsMessi/Dashboard2)
 
 <center><img src="projects/cr7vsmessi.png"/></center>
