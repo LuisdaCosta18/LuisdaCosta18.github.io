@@ -10,38 +10,45 @@ layout: default
 
 ---
 #### Netflix Visualization
-[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Netflix_16897051908920/Dashboard1)
+[![Open Visual](https://img.shields.io/badge/Tableau-Open%20Project-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Netflix_16897051908920/Dashboard1)
 
 <center><img src="projects/netflix.png"/></center>
 
 ---
 #### Eurovision 1998-2012
-[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Eurovision1998-2012_16897884446100/Dashboard1)
+[![Open Visual](https://img.shields.io/badge/Tableau-Open%20Project-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/Eurovision1998-2012_16897884446100/Dashboard1)
 
 <center><img src="projects/Eurovision.png"/></center>
 
 ---
 #### MotoGP 2020 Bar Race
-[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/MotoGP2020/Sheet4)
+[![Open Visual](https://img.shields.io/badge/Tableau-Open%20Project-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/MotoGP2020/Sheet4)
 
 <center><img src="projects/motogp.png"/></center>
 
 ---
 #### CR7 vs Messi
-[![Open Visual](https://img.shields.io/badge/Tableau-Projects-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/CR7vsMessi/Dashboard2)
+[![Open Visual](https://img.shields.io/badge/Tableau-Open%20Project-orange?logo=tableau)](https://public.tableau.com/app/profile/lu.s.costa4526/viz/CR7vsMessi/Dashboard2)
 
 <center><img src="projects/cr7vsmessi.png"/></center>
 ---
 
-#### PowerBi visualizations
+## PowerBi visualizations
+---
 
 #### Supermarket Sales Report
-[![Open Visual](https://img.shields.io/badge/Power_BI-Projects-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/4938f6b8-ade1-4fd9-ba14-77a26c1b4915/ReportSection?experience=power-bi)
+[![Open Visual](https://img.shields.io/badge/Power_BI-Open%20Project-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/4938f6b8-ade1-4fd9-ba14-77a26c1b4915/ReportSection?experience=power-bi)
 
 <center><img src="projects/supermarket.png"/></center>
 
 ---
 
+#### Supermarket Sales Report
+[![Open Visual](https://img.shields.io/badge/Power_BI-Open%20Project-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/537a0839-b848-4a42-a1f3-7e0b4a1039cc/ReportSection?experience=power-bi)
+
+<center><img src="projects/HR.png"/></center>
+
+---
 ## Phyton Data Analysis
 
 ---
