@@ -35,9 +35,10 @@ layout: default
 
 #### PowerBi visualizations
 
-I have done some projects with powerBI in the past, here are some of the reports I have done.
+#### Supermarket Sales Report
+[![Open Visual](https://img.shields.io/badge/Power_BI-Projects-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/4938f6b8-ade1-4fd9-ba14-77a26c1b4915/ReportSection?experience=power-bi)
 
-<center><img src="assets/img/pb.PNG"/></center>
+<center><img src="projects/supermarket.png"/></center>
 
 ---
 
