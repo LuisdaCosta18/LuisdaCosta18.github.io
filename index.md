@@ -4,7 +4,9 @@ layout: default
 
 <div id="contain">
   <div class='wrap' id='wrap1'>
-    <div class='ball' id='ball1'></div>
+    <div class='ball' id='ball1'>
+      <img src="projects/motogp.png" >
+    </div>
   </div>
 
   <div class='wrap' id='wrap2'>
