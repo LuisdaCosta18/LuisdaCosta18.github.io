@@ -2,42 +2,6 @@
 layout: default
 ---
 
-<div id="contain">
-  <div class='wrap' id='wrap1'>
-    <div class='ball' id='ball1'>
-      <img src="projects/motogp.png" >
-    </div>
-  </div>
-
-  <div class='wrap' id='wrap2'>
-    <div class='ball' id='ball2'></div>
-  </div>
-
-  <div class='wrap' id='wrap3'>
-    <div class='ball' id='ball3'></div>
-  </div>
-
-  <div class='wrap' id='wrap4'>
-    <div class='ball' id='ball4'></div>
-  </div>
-
-</div>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-<p>&nbsp;  </p>
-
-
-
 
 # Portfolio
 
