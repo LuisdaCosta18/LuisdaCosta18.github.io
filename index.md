@@ -2,7 +2,6 @@
 layout: default
 ---
 
----
 <div id="contain">
   <div class='wrap' id='wrap1'>
     <div class='ball' id='ball1'></div>
@@ -34,7 +33,6 @@ layout: default
 <p>&nbsp;  </p>
 <p>&nbsp;  </p>
 <p>&nbsp;  </p>
----
 
 
 
