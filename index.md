@@ -59,7 +59,7 @@ layout: default
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="Financial.png" style="width:100%">
+    <img src="projects/Financial.png" style="width:100%">
     
   </div>
 
