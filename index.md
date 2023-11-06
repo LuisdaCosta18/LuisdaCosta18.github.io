@@ -7,19 +7,19 @@ layout: default
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="supermarket.png" style="width:100%">
+    <img src="projects/supermarket.png" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="Eurovision.png" style="width:100%">
+    <img src="projects/Eurovision.png" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="motogp.png" style="width:100%">
+    <img src="projects/motogp.png" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
