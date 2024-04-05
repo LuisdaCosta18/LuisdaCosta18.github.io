@@ -8,7 +8,7 @@ layout: default
 
 
 ## Google Case Study 
-[![Open Notebook](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)](projects/Poject.html)
+[![Open Notebook](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)](projects/Project.html)
 
 ## Tableau Visualizations
 
