@@ -7,7 +7,7 @@ layout: default
 # Portfolio
 
 
-## Google Case Study 
+## Data Analysis Case Study 
 [![Open Notebook](https://img.shields.io/badge/RStudio-Open%20Notebook-blue?logo=rstudio)](projects/Project.html)
 
 ## Tableau Visualizations
